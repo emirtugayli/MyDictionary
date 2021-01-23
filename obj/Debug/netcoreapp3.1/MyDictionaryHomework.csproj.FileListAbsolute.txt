@@ -1,0 +1,13 @@
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.csprojAssemblyReference.cache
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.AssemblyInfoInputs.cache
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.AssemblyInfo.cs
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.exe
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.deps.json
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.runtimeconfig.json
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.runtimeconfig.dev.json
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.dll
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\bin\Debug\netcoreapp3.1\MyDictionaryHomework.pdb
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.dll
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.pdb
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\MyDictionaryHomework\obj\Debug\netcoreapp3.1\MyDictionaryHomework.genruntimeconfig.cache
